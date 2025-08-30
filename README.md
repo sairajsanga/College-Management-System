@@ -68,4 +68,4 @@ This project is an Uber backend system implementation using Spring Boot, MySQL, 
 
 
 ## Contact
-For any inquiries, please reach out to pandeyprashantganesh525@gmail.com.
+For any inquiries, please reach out to sairajsanga459@gmail.com
