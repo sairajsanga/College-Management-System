@@ -25,7 +25,7 @@ public class NotificationServiceImpl implements NotificationService {
         try{
             System.out.println("Email thread: " + Thread.currentThread().getName());
             SimpleMailMessage simpleMailMessage = new SimpleMailMessage();
-            simpleMailMessage.setFrom("pandeyprashantganesh@gmail.com");
+            simpleMailMessage.setFrom("sairajsanga459@gmail.com");
             simpleMailMessage.setTo(to);
             simpleMailMessage.setSubject(subject);
             simpleMailMessage.setText(body);
@@ -46,7 +46,7 @@ public class NotificationServiceImpl implements NotificationService {
         try{
             System.out.println("Email thread: " + Thread.currentThread().getName());
             SimpleMailMessage simpleMailMessage = new SimpleMailMessage();
-            simpleMailMessage.setFrom("pandeyprashantganesh@gmail.com");
+            simpleMailMessage.setFrom("sairajsanga459@gmail.com");
             simpleMailMessage.setTo(to);
             simpleMailMessage.setSubject(subject);
             simpleMailMessage.setText(body);
